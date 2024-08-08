@@ -1,0 +1,43 @@
+
+  .card{
+    width: 225px;
+    height: 300px;
+    border: 3px solid black;
+  background-color: darkgreen;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+  .cardDetails{
+    padding: 8px;
+  }
+  .name{
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+
+  }
+  .price{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .review{
+    font-size: 12px;
+    color: #8b8ba3;
+  }
+ 
+.description{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.category{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.productLink{
+  text-decoration: none;
+}
